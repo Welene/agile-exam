@@ -52,7 +52,6 @@ Mitt mål med detta projekt var att arbeta så bra jag kunde och att inte låta 
 ### Vad var din känsla inför att arbeta i ett team när du gick in i uppgiften?  
 Jag var lite orolig över att vara i en grupp med personer som verkade så duktiga och bättre än jag på JavaScript. Jag var rädd för att inte vara tillräckligt bra eller att göra fel. Jag var också orolig över kamerasituationen – vilket visade sig gå bra. Eftersom vi arbetar i grupper hela tiden har jag vant mig vid det, och jag har vuxit mycket inom det området, vilket jag är tacksam för. Jag var nöjd med gruppen jag fick och visste att när det gäller kommunikation skulle det fungera bra, eftersom alla i min grupp kan kommunicera på ett bra sätt, vilket inte alltid är fallet med vissa andra grupper.  
 
----
 
 ## Planering och genomförande  
 
@@ -68,12 +67,10 @@ Jag gjorde även ETA-sidan (någon annan lade till foodtrucken på den sidan). J
 
 Utöver det fixade jag små buggar, ändrade och förbättrade designen, diskuterade lösningar och idéer med gruppen, kom på lösningar eller förbättringar, letade efter buggar i appen och rapporterade dem etc.  
 
----
 
 ## Beskriv med dina egna ord, er applikation  
 Den är en av de mest obegripligt utsökta och revolutionerande innovationerna… Vår app fungerar 😊 och är en tidig version av en app för någon som precis startat sin foodtruckverksamhet eller behöver en app för det för första gången. Den har förbättringspotential men ser överlag bra ut och fungerar i de områden den är avsedd för – en fungerande app med potential!  
 
----
 
 ## Teamets utmaningar och lösningar  
 
@@ -86,7 +83,6 @@ Jag löste dem genom att glömma att ta pauser och få huvudvärk! (yes!... nej�
 ### Vilka kompromisser inom teamet har du fått göra under projektets gång?  
 Att vakna 8:40 för att ha ett möte kl. 9 varje morgon istället för att sova lite längre, eftersom jag inte är den största morgonmänniskan i teamet – medan andra vaknar kl. 6 bara för att! – men det är okej. Jag ser det som ett jobb, vilket det är, och jag vill inte vara i vägen för andra, så det fungerar bra. En annan sak är att ändra eller släppa idéer om någon annan hade en bättre lösning, även om jag gillade min egen – men det respekterar jag!  
 
----
 
 ## Individuell reflektion och utvärdering  
 
@@ -99,14 +95,12 @@ Att ta fler pauser eller bara komma ihåg att ta en överhuvudtaget. Det skulle 
 ### Vilka möjligheter ser du med de kunskaper du fått under arbetet med projektet?  
 Jag har fått mer erfarenhet och förståelse för JavaScript i allmänhet, även om det ibland kan vara väldigt svårt. Att bryta ner problem i så små delar som möjligt gör det lättare att arbeta med och hitta lösningar.  
 
----
 
 ## Om ni hade en vecka till på er, vad skulle du ändrat?  
 Jag vet inte om det finns så mycket jag skulle ändra. Vi arbetade väldigt bra tillsammans och allt flöt på smidigt.  
 
 När det gäller saker jag skulle ändra från hur de är nu, kan jag faktiskt inte komma på något – för allt gick väldigt bra på i stort sett alla områden av projektet och grupparbetet.
 
----
 
 ## VG-frågor (minst 200 tecken)  
 
